@@ -41,10 +41,6 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 Language ID and transcription using CNNs and Indian audio datasets.  
 `Technologies:` PyTorch, Audio Preprocessing
 
-> ⏳ Coming Soon:  
-> - LLM-based Wi-Fi log assistant  
-> - Wi-Fi anomaly detection using time-series deep learning
-
 ---
 
 ## 📚 Publications
