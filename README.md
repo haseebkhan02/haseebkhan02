@@ -42,6 +42,10 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 *Science Direct, Academic Press, ISBN 9780443275234* 
 [Read here] (https://www.sciencedirect.com/science/article/abs/pii/B9780443275234000044)
 
+**"Transformer networks and autoencoders in genomics and genetic data interpretation: a case study"**  
+*Science Direct, Academic Press, ISBN 9780443275234*  
+[Read here](https://link.springer.com/chapter/10.1007/978-3-031-58535-7_35)
+
 ---
 
 ## 📫 Let's Connect
