@@ -8,13 +8,6 @@
 
 I'm a passionate AI/ML engineer with hands-on experience building **Generative AI models**, **Wi-Fi optimization systems**, and **real-time log analyzers**. With a strong foundation in **Deep Learning**, **Computer Vision**, and **Embedded Networking**, I blend research and practical engineering to solve complex system-level problems.
 
-Currently working at **Samsung Semiconductor India R&D**, I specialize in:
-- 🌐 Wi-Fi network optimization using AI/ML
-- 🤖 Log automation using NLP and anomaly detection
-- 🧠 LLM-based assistants for Wi-Fi debugging and maintenance
-
-I’ve also worked with **Nokia** on **5G MAC layer development** and mentored final-year students as an **Assistant Professor** in AI and Generative Models.
-
 ---
 
 ## 🧰 Tech Stack & Interests
@@ -36,10 +29,6 @@ Deep Learning-based autonomous driving model using U-Net, SegNet, VGG16 for Indi
 🔹 [Malicious URL Detection](https://github.com/haseebkhan36/Malicious-URL-Detection)  
 Multi-class classification using tree-based models to detect phishing/malware URLs.  
 `Technologies:` PyTorch, Pandas, EDA
-
-🔹 [Language Identification and Transcription](https://github.com/haseebkhan36/LangID)  
-Language ID and transcription using CNNs and Indian audio datasets.  
-`Technologies:` PyTorch, Audio Preprocessing
 
 ---
 
