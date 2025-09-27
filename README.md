@@ -38,12 +38,16 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 *Springer CCIS Series (CVIP 2023)*  
 [Read here](https://link.springer.com/chapter/10.1007/978-3-031-58535-7_35)
 
+**"Transformer networks and autoencoders in genomics and genetic data interpretation: a case study"**
+*Science Direct, Academic Press, ISBN 9780443275234* 
+[Read here] (https://www.sciencedirect.com/science/article/abs/pii/B9780443275234000044)
+
 ---
 
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/haseebkhan02/)
-- ✉️ haseebkhan8099@gmail.com
+- ✉️ [Google Scholer] (https://scholar.google.com/citations?user=7Bu5BMoAAAAJ&hl=en)
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=7Bu5BMoAAAAJ&hl=en)
 
 ---
