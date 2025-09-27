@@ -38,13 +38,21 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 *Springer CCIS Series (CVIP 2023)*  
 [Read here](https://link.springer.com/chapter/10.1007/978-3-031-58535-7_35)
 
-**"Transformer networks and autoencoders in genomics and genetic data interpretation: a case study"**
-*Science Direct, Academic Press, ISBN 9780443275234* 
-[Read here] (https://www.sciencedirect.com/science/article/abs/pii/B9780443275234000044)
-
 **"Transformer networks and autoencoders in genomics and genetic data interpretation: a case study"**  
 *Science Direct, Academic Press, ISBN 9780443275234*  
 [Read here](https://link.springer.com/chapter/10.1007/978-3-031-58535-7_35)
+
+**"Genomic image analysis: Bridging genomics and advanced imaging"**  
+*Science Direct, Academic Press, ISBN 9780443275234*  
+[Read here](https://www.sciencedirect.com/science/article/abs/pii/B9780443275234000020)
+
+**"Deep generative models in utilitarian and metamorphic genomics—Intellectual benefits"**  
+*Science Direct, Academic Press, ISBN 9780443275234*  
+[Read here](https://www.sciencedirect.com/science/article/abs/pii/B9780443275234000081)
+
+**"Introduction to deep learning for genomics"**  
+*Science Direct, Academic Press, ISBN 9780443275234*  
+[Read here](https://www.sciencedirect.com/science/article/abs/pii/B9780443275746000205)
 
 ---
 
