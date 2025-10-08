@@ -63,6 +63,6 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 
 ---
 
-> 📍 “Passion for AI meets Practical Wireless Systems.”  
+> 📍 “Passion for AI meets with data and it's applications.”  
 > Let’s build intelligent systems that understand the world and optimize it!
 
