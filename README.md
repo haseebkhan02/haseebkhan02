@@ -59,7 +59,6 @@ Multi-class classification using tree-based models to detect phishing/malware UR
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/haseebkhan02/)
-- ✉️ [Google Scholer] (https://scholar.google.com/citations?user=7Bu5BMoAAAAJ&hl=en)
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=7Bu5BMoAAAAJ&hl=en)
 
 ---
