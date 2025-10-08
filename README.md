@@ -30,6 +30,11 @@ Deep Learning-based autonomous driving model using U-Net, SegNet, VGG16 for Indi
 Multi-class classification using tree-based models to detect phishing/malware URLs.  
 `Technologies:` PyTorch, Pandas, EDA
 
+🔹 [Fraud Detection in transaction](https://supervised-ml-ye8bjfiejlk8bsuojnerzr.streamlit.app/)  
+Binary classification using tree-based models : RandomForestClassifier to detect fraud in transactions.  
+`Technologies:` Python, Pandas, EDA, sklearn
+
+
 ---
 
 ## 📚 Publications
