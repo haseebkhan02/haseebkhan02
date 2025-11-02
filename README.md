@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haseeb Khan
+# Hi, I'm Haseeb Khan
 
 🎓 M.Tech in Data Science & AI | 💻 Software Engineer at Samsung R&D | 🔬 Generative AI | 📡 Wi-Fi Systems | 🧠 Deep Learning
 
